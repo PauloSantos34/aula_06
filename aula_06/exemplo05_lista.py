@@ -13,3 +13,4 @@ for i, d in enumerate(previsoes_tempo):
 
 print(f'Dias ensolarados: {dias_ensolarados}')
 print(f'Dias sem sol: {dias_sem_sol}')
+

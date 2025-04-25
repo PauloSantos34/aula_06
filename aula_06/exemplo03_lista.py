@@ -10,3 +10,4 @@ for previsao in previsoes_tempo:
         print(f'Aproveite para passear, previsao {previsao}')
     else:
         print(f'Leve o guarda chuva, previsao {previsao}')
+        
